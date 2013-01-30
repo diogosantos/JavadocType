@@ -1,1 +1,9 @@
+JavadocType is a tool to fix the Javadoc Type violation for sonar covered projects.
+
+TODO list:
+- ask for svn username and password, instead of having it hardcoded
+- make it integrated to maven, so you can just inform your parent project and then the tool take care of every module
+- It would be great to have a log of all modifications the tool did to the project
+- take care of the end of file styles of the files
+
 This file was created by IntelliJ IDEA 11.1.5 for binding GitHub repository
